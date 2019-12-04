@@ -5,7 +5,7 @@ Uses Machine Learning and Deep Learning algorithms for detecting fraud in credit
 ## Desired implementation
 
 * Tradition Classification algorithms
-  * Desicion Tress
+  * Decision Tress
   * Random Forests
 * Deep Learning based classification
   * Keras (with tensorflow backend)
@@ -13,7 +13,7 @@ Uses Machine Learning and Deep Learning algorithms for detecting fraud in credit
 ## Requirements
 
 * Keras (tensorflow backend)
-* scikit- learn library
+* scikit - learn library
 
 ## Contribution guidelines
 
