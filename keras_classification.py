@@ -4,6 +4,6 @@ import numpy as np
 import keras
 
 # Data visualisation
-data = pd.read_csv("Dartaset/creditcard.csv")
+data = pd.read_csv("Dataset/creditcard.csv")
 
 print(data.head())
